@@ -80,7 +80,7 @@ body {
       rgba(0, 0, 0, 0.4) 0%,
       rgba(0, 0, 0, 0.8) 100%
     ),
-    url("stranger-things.webp") center/cover;
+    url("stranger-things.jpg") center/cover;
   display: flex;
   align-items: center;
   padding: 0 60px;
